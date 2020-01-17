@@ -33,5 +33,8 @@ obtained.
 ### The application after evaluating.
 ###
 ![front1](https://user-images.githubusercontent.com/40026126/72591774-047c8a80-3927-11ea-898c-f4cbea0fd121.png)
-
+###
+### Output on the terminal.
+###
+![output](https://user-images.githubusercontent.com/40026126/72591778-08a8a800-3927-11ea-9ef4-48732d55675c.png)
 
