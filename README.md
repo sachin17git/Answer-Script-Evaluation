@@ -6,7 +6,9 @@ Indexing and we get a LSI model. This model has a size of about 2.5 GB and this 
 contains all the data in numerical form. This step is performed because machine learning
 algorithms can only understand numbers and not text. To work with text data in machine
 learning, we convert all the text data to a numerical form that is understood by the machine
-learning algorithms. After the LSI model is created, the making scheme is taken and stop
+learning algorithms. 
+###    
+After the LSI model is created, the making scheme is taken and stop
 words are removed from it and converted to dictionary. This dictionary contains all the unique
 words and these words are mapped to some unique numbers. The dictionary contains these
 unique numbers as keys and the occurrence of those words as values. This dictionary is then
