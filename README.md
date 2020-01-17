@@ -25,14 +25,6 @@ have a comparison score. The average of these comparison scores is taken for one
 this average is the comparison score of that answer. Marks is assigned based on this compariosn
 score for each answers and after all answers are processed, marks are added up and total marks is
 obtained.
-
-## The front end of this application looks like this.
-###  
-![front](https://user-images.githubusercontent.com/40026126/72591767-00e90380-3927-11ea-958f-5943d3875ff3.png)
-###  
-## The application after evaluating.
-###
-![front1](https://user-images.githubusercontent.com/40026126/72591774-047c8a80-3927-11ea-898c-f4cbea0fd121.png)
 ###
 ### Stages of evaluation:
 ##### 1. Input Text Processing
@@ -41,6 +33,14 @@ obtained.
 ##### 4. Comparison of Text
 ##### 5. Sentiment Analysis
 ##### 6. Assigning Marks
+###
+## The front end of this application looks like this.
+###  
+![front](https://user-images.githubusercontent.com/40026126/72591767-00e90380-3927-11ea-958f-5943d3875ff3.png)
+###  
+## The application after evaluating.
+###
+![front1](https://user-images.githubusercontent.com/40026126/72591774-047c8a80-3927-11ea-898c-f4cbea0fd121.png)
 ### 
 ## Output on the terminal.
 ###
