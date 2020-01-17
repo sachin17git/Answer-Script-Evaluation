@@ -53,9 +53,12 @@ obtained.
 In the above figure, entities in the index 0 refers to first sentence in the answer sheet. The
 comparison scores written against it indicates the index number, similarity with that of the
 marking scheme sentences. Here 0 , 0.9099441 indicates that sentence 0 of answer sheet has a
-comparison percentage of 90% with sentence 0 of marking scheme. Similarly, the second entity 5
-, 0.68514407 indicates that sentence 0 of answer sheet has a comparison percentage of 68% with
-sentence number 5 of marking scheme. Similarly, the entire set of sentences are listed for each
+comparison percentage of 90% with sentence 0 of marking scheme.
+### 
+Similarly, the second entity 5, 0.68514407 indicates that sentence 0 of answer sheet has a comparison percentage of 68% with
+sentence number 5 of marking scheme. 
+### 
+Similarly, the entire set of sentences are listed for each
 answer script. For each index of answer script, the marking scheme index with maximum comparison percentage is selected and assigned as most similar with the corresponding comparison percentage.
 ### 
 ## One of the sample answer to a question from student's answer script.
