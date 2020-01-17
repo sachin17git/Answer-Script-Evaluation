@@ -37,4 +37,11 @@ obtained.
 ### Output on the terminal.
 ###
 ![output](https://user-images.githubusercontent.com/40026126/72591778-08a8a800-3927-11ea-9ef4-48732d55675c.png)
-
+###
+### One of the sample answer to a question from student's answer script.
+###
+![s1](https://user-images.githubusercontent.com/40026126/72591784-1100e300-3927-11ea-9445-27fb732c1fa6.png)
+###
+### Sample answer to a question from teacher's marking scheme.
+###
+![s2](https://user-images.githubusercontent.com/40026126/72591788-14946a00-3927-11ea-8381-8d7c77f1981f.png)
