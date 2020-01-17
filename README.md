@@ -69,9 +69,17 @@ answer script. For each index of answer script, the marking scheme index with ma
 ###
 ![as1](https://user-images.githubusercontent.com/40026126/72593915-347a5c80-392c-11ea-8547-d38df062cc8a.png)
 ###
+In the above answer, each sentence in the answer is again split to individual list items. So there
+are 6 sentences ranging from index 0 to index 5.
+###
 ## Sample answer to a question from teacher's marking scheme.
 ###
 ![as2](https://user-images.githubusercontent.com/40026126/72593919-36dcb680-392c-11ea-9440-137c916fd0d1.png)
+###
+In the above figure, again each sentence is split to a list item and as we can see, there are more
+number of sentences in the marking scheme when compared to the answer script. And it is also
+observed that the points are jumbled i.e., they are not in the same order in both the documents.
+Now, each sentence to sentence comparison is done.
 ###
 ## Marks allotment to every subsequent question number.
 ###
