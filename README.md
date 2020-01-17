@@ -25,3 +25,9 @@ have a comparison score. The average of these comparison scores is taken for one
 this average is the comparison score of that answer. Marks is assigned based on this compariosn
 score for each answers and after all answers are processed, marks are added up and total marks is
 obtained.
+
+The front end of this application looks like this.
+![front](https://user-images.githubusercontent.com/40026126/72591767-00e90380-3927-11ea-958f-5943d3875ff3.png)
+
+
+
