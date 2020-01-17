@@ -28,6 +28,8 @@ obtained.
 ###
 To construct a corpus from a Wikipedia (or other MediaWiki-based) database dump, refer this tutorial https://radimrehurek.com/gensim/corpora/wikicorpus.html.
 ###
+For detailed technical information please refer my research paper - https://www.ijariit.com/manuscript/answer-script-evaluator/
+###
 ### Stages of evaluation:
 ##### 1. Input Text Processing
 ##### 2. Removing Stop Words
