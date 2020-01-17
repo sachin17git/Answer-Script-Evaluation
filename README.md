@@ -61,6 +61,10 @@ sentence number 5 of marking scheme.
 Similarly, the entire set of sentences are listed for each
 answer script. For each index of answer script, the marking scheme index with maximum comparison percentage is selected and assigned as most similar with the corresponding comparison percentage.
 ### 
+## Final similarity array for an answer.
+###
+![final_sim](https://user-images.githubusercontent.com/40026126/72594290-1f51fd80-392d-11ea-81f2-dbc6ee55cc55.png)
+###
 ## One of the sample answer to a question from student's answer script.
 ###
 ![as1](https://user-images.githubusercontent.com/40026126/72593915-347a5c80-392c-11ea-8547-d38df062cc8a.png)
