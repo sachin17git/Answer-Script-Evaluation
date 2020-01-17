@@ -46,6 +46,18 @@ obtained.
 ###
 ![output](https://user-images.githubusercontent.com/40026126/72591778-08a8a800-3927-11ea-9ef4-48732d55675c.png)
 ###
+## Similarities with each sentence.
+###
+![sim](https://user-images.githubusercontent.com/40026126/72593537-3e4f9000-392b-11ea-9261-3931c08cd6d2.png)
+###  
+In the above figure, entities in the index 0 refers to first sentence in the answer sheet. The
+comparison scores written against it indicates the index number, similarity with that of the
+marking scheme sentences. Here 0 , 0.9099441 indicates that sentence 0 of answer sheet has a
+comparison percentage of 90% with sentence 0 of marking scheme. Similarly, the second entity 5
+, 0.68514407 indicates that sentence 0 of answer sheet has a comparison percentage of 68% with
+sentence number 5 of marking scheme. Similarly, the entire set of sentences are listed for each
+answer script. For each index of answer script, the marking scheme index with maximum comparison percentage is selected and assigned as most similar with the corresponding comparison percentage.
+### 
 ## One of the sample answer to a question from student's answer script.
 ###
 ![s1](https://user-images.githubusercontent.com/40026126/72591784-1100e300-3927-11ea-9445-27fb732c1fa6.png)
