@@ -34,6 +34,14 @@ obtained.
 ###
 ![front1](https://user-images.githubusercontent.com/40026126/72591774-047c8a80-3927-11ea-898c-f4cbea0fd121.png)
 ###
+### Stages of evaluation:
+##### 1. Input Text Processing
+##### 2. Removing Stop Words
+##### 3. Bag of Words
+##### 4. Comparison of Text
+##### 5. Sentiment Analysis
+##### 6. Assigning Marks
+### 
 ### Output on the terminal.
 ###
 ![output](https://user-images.githubusercontent.com/40026126/72591778-08a8a800-3927-11ea-9ef4-48732d55675c.png)
