@@ -60,11 +60,11 @@ answer script. For each index of answer script, the marking scheme index with ma
 ### 
 ## One of the sample answer to a question from student's answer script.
 ###
-![s1](https://user-images.githubusercontent.com/40026126/72591784-1100e300-3927-11ea-9445-27fb732c1fa6.png)
+![as1](https://user-images.githubusercontent.com/40026126/72593915-347a5c80-392c-11ea-8547-d38df062cc8a.png)
 ###
 ## Sample answer to a question from teacher's marking scheme.
 ###
-![s2](https://user-images.githubusercontent.com/40026126/72591788-14946a00-3927-11ea-8381-8d7c77f1981f.png)
+![as2](https://user-images.githubusercontent.com/40026126/72593919-36dcb680-392c-11ea-9440-137c916fd0d1.png)
 ###
 ## Marks allotment to every subsequent question number.
 ###
