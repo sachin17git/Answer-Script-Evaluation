@@ -45,3 +45,11 @@ obtained.
 ### Sample answer to a question from teacher's marking scheme.
 ###
 ![s2](https://user-images.githubusercontent.com/40026126/72591788-14946a00-3927-11ea-8381-8d7c77f1981f.png)
+###
+### Marks allotment to every subsequent question number.
+###
+![marks](https://user-images.githubusercontent.com/40026126/72592725-3393fb80-3929-11ea-86fb-a0858112fea8.png)
+###
+### This file contains question number attended by student.
+###
+![attended](https://user-images.githubusercontent.com/40026126/72592730-37278280-3929-11ea-9949-f05ea4936944.png)
