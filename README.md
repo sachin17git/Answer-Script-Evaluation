@@ -26,6 +26,8 @@ this average is the comparison score of that answer. Marks is assigned based on 
 score for each answers and after all answers are processed, marks are added up and total marks is
 obtained.
 ###
+To construct a corpus from a Wikipedia (or other MediaWiki-based) database dump, refer this tutorial https://radimrehurek.com/gensim/corpora/wikicorpus.html.
+###
 ### Stages of evaluation:
 ##### 1. Input Text Processing
 ##### 2. Removing Stop Words
