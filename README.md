@@ -16,3 +16,12 @@ converted to bag of words. The same procedure is applied to the answer sheet as 
 of words that was created by the marking scheme is passed to the LSI model and the data is
 prepared for comparison and we get a set of indexing values which eases the comparing
 process.
+###    
+Now the answer sheet’s corpus is taken and is passed through the LSI model and set of
+values is generated. This set of values is again compared with the indexed values of the marking
+scheme. The LSI model compares these values from answer sheet and marking scheme and
+assigns a comparsion percentage. This process is applied to each sentence and each sentence will
+have a comparison score. The average of these comparison scores is taken for one answer and
+this average is the comparison score of that answer. Marks is assigned based on this compariosn
+score for each answers and after all answers are processed, marks are added up and total marks is
+obtained.
