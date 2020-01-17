@@ -1,6 +1,6 @@
 # Answer-Script-Evaluation
 ### This application evaluates student answer scripts using Natural Language Processing (NLP).
-For the project, we have taken huge data for training. We have trained the model with 66Gb of text data (wiki corpus) that has
+For the project, we have taken huge data for training. We have trained the model with 66Gb of text data (wiki corpus) https://dumps.wikimedia.org/enwiki/ that has
 almost all the words with its nearby predictive words. This huge data is fed to Latent Semantic
 Indexing and we get a LSI model. This model has a size of about 2.5 GB and this model
 contains all the data in numerical form. This step is performed because machine learning
