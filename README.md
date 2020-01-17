@@ -1,5 +1,5 @@
 # Answer-Script-Evaluation
-### This application evaluates student answer scripts using Natural Language Processing (NLP).
+## This application evaluates student answer scripts using Natural Language Processing (NLP).
 For the project, we have taken huge data for training. We have trained the model with 66Gb of text data (wiki corpus) (https://dumps.wikimedia.org/enwiki/) that has
 almost all the words with its nearby predictive words. This huge data is fed to Latent Semantic
 Indexing and we get a LSI model. This model has a size of about 2.5 GB and this model
@@ -26,11 +26,11 @@ this average is the comparison score of that answer. Marks is assigned based on 
 score for each answers and after all answers are processed, marks are added up and total marks is
 obtained.
 
-### The front end of this application looks like this.
+## The front end of this application looks like this.
 ###  
 ![front](https://user-images.githubusercontent.com/40026126/72591767-00e90380-3927-11ea-958f-5943d3875ff3.png)
 ###  
-### The application after evaluating.
+## The application after evaluating.
 ###
 ![front1](https://user-images.githubusercontent.com/40026126/72591774-047c8a80-3927-11ea-898c-f4cbea0fd121.png)
 ###
@@ -42,22 +42,22 @@ obtained.
 ##### 5. Sentiment Analysis
 ##### 6. Assigning Marks
 ### 
-### Output on the terminal.
+## Output on the terminal.
 ###
 ![output](https://user-images.githubusercontent.com/40026126/72591778-08a8a800-3927-11ea-9ef4-48732d55675c.png)
 ###
-### One of the sample answer to a question from student's answer script.
+## One of the sample answer to a question from student's answer script.
 ###
 ![s1](https://user-images.githubusercontent.com/40026126/72591784-1100e300-3927-11ea-9445-27fb732c1fa6.png)
 ###
-### Sample answer to a question from teacher's marking scheme.
+## Sample answer to a question from teacher's marking scheme.
 ###
 ![s2](https://user-images.githubusercontent.com/40026126/72591788-14946a00-3927-11ea-8381-8d7c77f1981f.png)
 ###
-### Marks allotment to every subsequent question number.
+## Marks allotment to every subsequent question number.
 ###
 ![marks](https://user-images.githubusercontent.com/40026126/72592725-3393fb80-3929-11ea-86fb-a0858112fea8.png)
 ###
-### This file contains question number attended by student.
+## This file contains question number attended by student.
 ###
 ![attended](https://user-images.githubusercontent.com/40026126/72592730-37278280-3929-11ea-9949-f05ea4936944.png)
