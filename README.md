@@ -61,10 +61,6 @@ sentence number 5 of marking scheme.
 Similarly, the entire set of sentences are listed for each
 answer script. For each index of answer script, the marking scheme index with maximum comparison percentage is selected and assigned as most similar with the corresponding comparison percentage.
 ### 
-## Final similarity array for an answer.
-###
-![final_sim](https://user-images.githubusercontent.com/40026126/72594290-1f51fd80-392d-11ea-81f2-dbc6ee55cc55.png)
-###
 ## One of the sample answer to a question from student's answer script.
 ###
 ![as1](https://user-images.githubusercontent.com/40026126/72593915-347a5c80-392c-11ea-8547-d38df062cc8a.png)
@@ -81,10 +77,20 @@ number of sentences in the marking scheme when compared to the answer script. An
 observed that the points are jumbled i.e., they are not in the same order in both the documents.
 Now, each sentence to sentence comparison is done.
 ###
-## Marks allotment to every subsequent question number.
+## Final similarity array for an answer.
+###
+![final_sim](https://user-images.githubusercontent.com/40026126/72594290-1f51fd80-392d-11ea-81f2-dbc6ee55cc55.png)
+###
+As shown in the above figure, the first column refers to index of marking scheme. 2 nd
+column refers to index of the answer sheet and the last column refers to the comparison
+percentage of those 2 sentences. This is the process for one answer. For all the answers in the
+answer script, the same procedure is applied and comparison percentage is calculated
+individually.
+###
+## Marks allotted to every subsequent question number by a teacher.
 ###
 ![marks](https://user-images.githubusercontent.com/40026126/72592725-3393fb80-3929-11ea-86fb-a0858112fea8.png)
 ###
-## This file contains question number attended by student.
+## This file contains question numbers attended by student.
 ###
 ![attended](https://user-images.githubusercontent.com/40026126/72592730-37278280-3929-11ea-9949-f05ea4936944.png)
